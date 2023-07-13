@@ -1,6 +1,6 @@
 ---
 title: Andook Privacy Policy
-subtitle: Privacy is why we exist
+subtitle: Privacy is the backbone on which everything is built
 ---
 <!-- markdownlint-disable MD041 -->
 This Privacy Policy applies to the websites owned and operated (“Website”) by Andook, Inc. (Andook, We, Us, or Our). This Privacy Policy describes how Andook collects and uses the personal data collected through the Website (including, but not limited to, Andook.com, Andook.ca and Andook.co.uk) and Services located behind the logins of Andook Applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which Andook is engaged.
